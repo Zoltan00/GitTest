@@ -1,7 +1,7 @@
 # GitTest
 This is a test repo
 
-// i write this for testing
+// i edit this text for testing
 
 
 //pull request test
